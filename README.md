@@ -3,6 +3,7 @@ This is a HTML and CSS code for a  restaurant landing page. The page features a 
 
 
 **Files**
+
 index.html: The main HTML file for the landing page.
 styles.css: The CSS file that styles the HTML content.
 logo.jpg: The logo image for the restaurant.
